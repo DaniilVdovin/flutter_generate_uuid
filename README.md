@@ -1,6 +1,6 @@
 <img href="https://play.google.com/store/apps/details?id=com.DaniilVdovin.flutter_cenerate_uuid" src="web_hi_res_512.png" width="48">
 
-#  flutter_cenerate_uuid
+#  flutter_generate_uuid
 
 
 
